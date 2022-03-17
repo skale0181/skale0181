@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences <a href="https://portfolio-chi-liart-77.vercel.app/">Portfolio</a>
 
-- 
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
