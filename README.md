@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **skale0181@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1c_F5kbo4Wnz0BgHrf4y0MBMa0kOOLSOj/view">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1oEQE5_kgcLZhQEkpqBNmqKTbnFFwf6nY/view?usp=sharing">Resume</a>
 
 - <a href="https://portfolio-chi-liart-77.vercel.app/">Portfolio</a>
 
