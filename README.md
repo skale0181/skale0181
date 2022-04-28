@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1oEQE5_kgcLZhQEkpqBNmqKTbnFFwf6nY/view?usp=sharing">Resume</a>
 
-- <a href="https://portfolio-chi-liart-77.vercel.app/">Portfolio</a>
+- <a href="https://portfolio-skale0181.vercel.app/">Portfolio</a>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
