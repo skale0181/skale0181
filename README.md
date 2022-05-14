@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=skale0181&label=Profile%20views&color=0e75b6&style=flat" alt="skale0181" /> </p> -->
+<img width="40%" align="right" alt="Github Header" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🌱 I’m currently learning **MERN Stack Web Development⭐️**
 
@@ -12,7 +13,7 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1oEQE5_kgcLZhQEkpqBNmqKTbnFFwf6nY/view?usp=sharing">Resume</a>
 
 - <a href="https://portfolio-chi-liart-77.vercel.app/">Portfolio</a>
-<img width="40%" align="right" alt="Github Header" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
