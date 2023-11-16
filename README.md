@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **skale0181@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iNVQkLeIHWy71WNi3fxIxnWlSWvoWSzr/view?usp=sharing">Resume</a>
+- <!-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iNVQkLeIHWy71WNi3fxIxnWlSWvoWSzr/view?usp=sharing">Resume</a> -->
 
-- <a href="https://sagarkale0181-portfolio.vercel.app/">Portfolio</a>
+- <!-- <a href="https://sagarkale0181-portfolio.vercel.app/">Portfolio</a> -->
 
 <!-- <hr> -->
 <h3 align="left">Connect with me:</h3>
